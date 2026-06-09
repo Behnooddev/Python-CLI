@@ -33,22 +33,22 @@ Designed with a hacker-inspired interface and focused on secure local file manag
 ## 📂 Project Structure
 
 ```txt
-VoidRoot/
+App-CLI/
 │
 ├── CLI.py
-├── requirements.txt
+├── Requirements.txt
 ├── README.md
 ├── LICENSE
-├── release/
-├── registry/
-└── assets/
+├── Release/
+├── Registry/
+└── Assets/
 ```
 
 ---
 
 ## 📸 Screenshot
 
-Add your application screenshot inside:
+APP UI Screenshot :
 
 ```txt
 /assets/screenshot.png
@@ -67,7 +67,7 @@ Then use:
 Clone the repository:
 
 ```bash
-git clone https://github.com/Behnooddev/voidroot-editor.git
+git clone https://github.com/Behnooddev/Python-CLI.git
 ```
 
 Install dependencies:
