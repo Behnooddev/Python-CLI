@@ -41,6 +41,7 @@ App-CLI/
 ├── LICENSE
 ├── Release/
 ├── Registry/
+├── Installer-Inno/
 └── Assets/
 ```
 
