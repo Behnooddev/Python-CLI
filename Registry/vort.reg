@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.vort]
+@="VORTFile"
+
+[HKEY_CLASSES_ROOT\VORTFile]
+@="VORT CLI File"
+
+[HKEY_CLASSES_ROOT\VORTFile\DefaultIcon]
+@="C:\\Program Files\\VORT Editor\\main.exe,0"
+
+[HKEY_CLASSES_ROOT\VORTFile\shell\open\command]
+@="\"C:\\Program Files\\VORT Editor\\main.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\.vort\ShellNew]
+"NullFile"=""
+
+[HKEY_CLASSES_ROOT\VORTFile]
+@="New CLI File"
